@@ -126,9 +126,5 @@ Selected Range
 |  Windmill | Building |
 |  York | Place That's Not Here |
 
-Save As Markdown
-
-Success! Saved selected range as a markdown table document. View file in Google Drive.
-
 ## License
 MIT
